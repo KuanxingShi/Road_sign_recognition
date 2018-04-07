@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding/get_road_40_sign.py=utf-8
+encoding/get_road_circle_sign.py=utf-8
+encoding/get_road_left_sign.py=utf-8
+encoding/get_road_p_sign.py=utf-8
+encoding/get_road_person_sign.py=utf-8
+encoding/get_road_return_sign.py=utf-8
+encoding/get_road_right_sign.py=utf-8
+encoding/motor.py=UTF-8
+encoding/trackLanStop.py=utf-8
+encoding/track_road_sign.py=utf-8
